@@ -30,5 +30,5 @@ October 2026: heads down building, shipping quietly. Details go public at launch
 
 ## Connect
 
-- Website: [proihsan.com](https://proihsan.com)
+- Website: [ihsanmarketing.com](https://ihsanmarketing.com)
 <!-- LinkedIn line yahan aayegi, jab Ihsan apni nayi LinkedIn profile ka link dega: - LinkedIn: [Muhammad Ihsan](LINK) -->
