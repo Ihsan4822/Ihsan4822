@@ -26,7 +26,7 @@ Right now my projects are private while they are in development. Public showcase
 
 ## Currently
 
-October 2026: heads down building, shipping quietly. Details go public at launch.
+November 2026: heads down building, shipping quietly. Details go public at launch.
 
 ## Connect
 
