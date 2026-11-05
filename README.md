@@ -21,7 +21,7 @@ Right now my projects are private while they are in development. Public showcase
 
 ## GitHub activity
 
-![Ihsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan4822&show_icons=true)
+![Ihsan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ihsan4822&theme=default)
 ![GitHub streak](https://streak-stats.demolab.com?user=Ihsan4822)
 
 ## Currently
