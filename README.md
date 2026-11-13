@@ -26,9 +26,9 @@ Right now my projects are private while they are in development. Public showcase
 
 ## Currently
 
-November 2026: heads down building, shipping quietly. Details go public at launch.
+November 2026: shipping a live snooker scoring app and its marketing site, reviving a nostalgia YouTube channel, and an Upwork automation tool submitted to a hackathon. Details go public at launch.
 
 ## Connect
 
 - Website: [ihsanmarketing.com](https://ihsanmarketing.com)
-<!-- LinkedIn line yahan aayegi, jab Ihsan apni nayi LinkedIn profile ka link dega: - LinkedIn: [Muhammad Ihsan](LINK) -->
+- LinkedIn: [Muhammad Ihsan](https://www.linkedin.com/in/muhammad-ihsan-solopreneur/)
